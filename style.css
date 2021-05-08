@@ -1,0 +1,60 @@
+#contactus iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+.library_mainDiv {
+    border: 1px solid black;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+.library_mainDiv img {
+    width: 100%;
+}
+
+.library_mainDiv hr {
+    width: 230px;
+}
+
+.library_mainDiv p {
+    margin-left: 20px;
+}
+
+.achievement_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    width: 100%;
+    display: inline-block;
+}
+
+.achievement_head i {
+    float: right;
+}
+
+.new_li {
+    margin-top: 13px;
+}
+
+.new_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.new_li img {
+    border-radius: 25px;
+}
+
+.new_li p {
+    margin-top: 10px;
+}
